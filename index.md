@@ -1,7 +1,8 @@
-<html>
+<!DOCTYPE html>
+  <html>
   <head>
   <title>About Brown Bears</title>
- </head>
+  </head>
 <body>
   <h1>The Brown Bear</h1>
   <div id="introduction">
