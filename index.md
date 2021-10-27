@@ -1,3 +1,7 @@
+<html>
+  <head>
+  <title>About Brown Bears</title>
+ </head>
 <body>
   <h1>The Brown Bear</h1>
   <div id="introduction">
@@ -27,8 +31,10 @@
   <div id="media">
     <h2>Media</h2>
     <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/>
+    <br>
     <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width="320" height="240" controls>
     Video not supported
      </video>
   </div>
 </body>
+</html>
